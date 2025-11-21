@@ -1,0 +1,19 @@
+# Eclipse Workspace metadata
+.metadata/
+.recommenders/
+.sonarlint/
+
+# Eclipse Project files (Optional: Keep these if you want to share Eclipse config, otherwise ignore)
+.classpath
+.project
+.settings/
+bin/
+
+# Maven/Gradle Build files
+target/
+build/
+.gradle/
+
+# OS specific
+Thumbs.db
+.DS_Store
